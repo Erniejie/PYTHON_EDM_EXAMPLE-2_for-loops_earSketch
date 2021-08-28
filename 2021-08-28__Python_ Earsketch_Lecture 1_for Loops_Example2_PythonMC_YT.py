@@ -36,4 +36,6 @@ for beat in beats:
 
 
 
-print("you there matey!")  # optional   
+print("you there matey!")  # optional
+
+finish()
